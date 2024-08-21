@@ -9,7 +9,6 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException {
 
-
         Random random = new Random();
         String[] texts = new String[100_000];
         for (int i = 0; i < texts.length; i++) {
